@@ -41,5 +41,9 @@
   "packageManager": "yarn@3.2.3",
   "engines": {
     "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "ethers": "^6.13.3",
+    "hardhat": "^2.22.12"
   }
 }
